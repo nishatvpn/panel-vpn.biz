@@ -3,7 +3,7 @@ cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='174.138.183.243';
 USER='abolirez_yo';
-PASS='abolirez_yo';
+PASS='@@@@F1r3n3t';
 DBNAME='abolirez_yo';
 
 install_require()
